@@ -17,7 +17,7 @@
         <input type="password" class="form-control" v-model="password" placeholder="Password">
       </div>
       <div class="lead">
-        <a class="btn btn-primary btn-lg" @click="login" role="button">Login</a>
+        <p class="btn btn-primary btn-lg" @click="login" role="button">Login</p>
         <p class="lead">dont have account? register <a href="/register">here</a> or</p>
       </div>
     </div>

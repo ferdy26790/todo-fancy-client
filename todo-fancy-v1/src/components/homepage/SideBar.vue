@@ -38,7 +38,6 @@
         <button type="button" @click="logout" class="btn btn-secondary">Logout</button>
       </div>
       <div class="card-footer text-muted">
-        2 days ago
       </div>
     </div>
   </div>
